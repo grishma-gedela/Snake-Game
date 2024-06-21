@@ -31,7 +31,7 @@ The objective of the game is to control a snake on a grid and eat food items to 
 
 ### Features
 - **Color Scheme:** 
-  - The snake's head is initially orange, and its body segments are light yellow.
+  - The snake's is light yellow in colour.
   - Food items are represented by dark blue circles.
 
 - **User Interaction:**
@@ -43,3 +43,28 @@ The objective of the game is to control a snake on a grid and eat food items to 
   - Increasing game difficulty over time.
   - Adding obstacles or hazards on the grid.
   - Implementing levels with different challenges or objectives.
+
+# Installation
+
+## Requirements
+
+Before running the game, make sure you have the following installed:
+
+- Python 3.x
+- Pygame Library (`pip install pygame`)
+
+## Installation Steps
+
+1. **Clone the Repository:
+      git clone https://github.com/grishma-gedela/Snake-Game.git**
+    
+2. **Install Pygame:
+      If Pygame is not installed, install it using pip:**
+
+
+
+
+
+
+
+
