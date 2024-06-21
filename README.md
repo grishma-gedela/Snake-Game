@@ -59,7 +59,7 @@ Before running the game, make sure you have the following installed:
       git clone https://github.com/grishma-gedela/Snake-Game.git**
     
 2. **Install Pygame:
-      If Pygame is not installed, install it using pip:**
+      If Pygame is not installed, install it using pip: pip install pygame**
 
 
 
