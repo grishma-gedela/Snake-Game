@@ -61,7 +61,7 @@ Before running the game, make sure you have the following installed:
 2. **Install Pygame:
       If Pygame is not installed, install it using pip: pip install pygame**
    
-4.  ** And at last Run the Game**
+3.  **And at last Run the Game**
 
 
 
